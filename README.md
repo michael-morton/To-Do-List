@@ -1,2 +1,3 @@
 # To-Do-List
 Simple To Do List app created for a group project.
+App allows users to add items to the list, remove items from the list, and mark tasks as completed.  The app also shows the current time and date in the upper left hand corner of the screen.  The app has multiple alert box to make sure the user enters information correctly.  The app will show an alter box if the user tries to create an item that does not have a name, tries to create an item that does not have a date, tries to create an item with an incorrectly formatted date, or tries to create an item with a date that is earlier in time than the current date. 
